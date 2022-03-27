@@ -16,7 +16,7 @@
   <h1>Hi there! 🐊</h1>
 </div>
 
-## :tea: About Me :
+## :spiral_notepad: About Me :
 - 🔭 I'm currently working on a custom path tracer and a game about office chair racing and... Staplers.
 - 🌱 I'm currently learning more about Machine Learning and Natural Language Processing.
 - 🎮 I tend to like playing games as much as I like designing them! 
