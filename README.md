@@ -17,7 +17,7 @@
 </div>
 
 ## :spiral_notepad: About Me :
-- 🔭 I'm currently working on a custom path tracer and a game about office chair racing and... Staplers.
+- 🔭 I'm currently working on a custom path tracer and a game about office chair racing with... Staplers.
 - 🌱 I'm currently learning more about Machine Learning and Natural Language Processing.
 - 🎮 I tend to like playing games as much as I like designing them! 
 - 💬 Ask me about crocodiles. No seriously, I love those darn things. But I get stoked to talk about my projects and prototypes as well!
