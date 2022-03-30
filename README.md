@@ -34,8 +34,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" width="40" height="40"/>
 
 ## :fire: Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markieautarkie&hide=stars,prs&count_private=true&show_icons=true&theme=blueberry&bg_color=ffffff00&border_color=A9A9A9)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://markieautarkie-github-readme-stats.vercel.app/api?username=Markieautarkie&hide=stars,prs&count_private=true&show_icons=true&theme=blueberry&bg_color=ffffff00&border_color=A9A9A9)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Markieautarkie&theme=blueberry_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markieautarkie&hide=c&layout=compact&theme=blueberry&bg_color=ffffff00&border_color=A9A9A9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://markieautarkie-github-readme-stats.vercel.app/api/top-langs/?username=Markieautarkie&hide=c&layout=compact&theme=blueberry&bg_color=ffffff00&border_color=A9A9A9)](https://github.com/anuraghazra/github-readme-stats)
