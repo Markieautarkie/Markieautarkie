@@ -17,8 +17,8 @@
 </div>
 
 ## :spiral_notepad: About Me :
-- 🔭 I'm currently working on a custom path tracer and a game about racing office chairs with... Staplers.
-- 🌱 Right now I'm learning more about Machine Learning and Natural Language Processing.
+- 🔭 I'm currently working on a custom path tracer, and a game about racing office chairs with... Staplers.
+- 🌱 Right now I'm getting more into Machine Learning and Natural Language Processing.
 - 🎮 I tend to enjoy playing games as much as I like designing them! 
 - 💬 Ask me about crocodiles. No seriously, I love those darn things. But I get stoked to talk about my projects and prototypes as well!
 - ⚡ Fun fact: :tea: > :coffee:. No, this is not negotiable.
