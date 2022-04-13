@@ -38,4 +38,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Markieautarkie&theme=blueberry_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://markieautarkie-github-readme-stats.vercel.app/api/top-langs/?username=Markieautarkie&hide=c,cmake,makefile&langs_count=6&layout=compact&theme=blueberry&bg_color=ffffff00&border_color=A9A9A9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://markieautarkie-github-readme-stats.vercel.app/api/top-langs/?username=Markieautarkie&hide=c,cmake&langs_count=6&layout=compact&theme=blueberry&bg_color=ffffff00&border_color=A9A9A9)](https://github.com/anuraghazra/github-readme-stats)
